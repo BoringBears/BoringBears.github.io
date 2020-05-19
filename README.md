@@ -1,2 +1,2 @@
 # BoringBears.github.io
-My Personal Website
+Website for games
