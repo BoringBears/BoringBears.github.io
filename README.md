@@ -1,2 +1,2 @@
 # BoringBears.github.io
-website
+My Personal Website
